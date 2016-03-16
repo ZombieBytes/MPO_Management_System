@@ -7,5 +7,8 @@
  * -inflation rates
  */
 public class Category {
-
+	/**
+	 * Responsibilities:
+	 *  -Knows category information
+	 */
 }

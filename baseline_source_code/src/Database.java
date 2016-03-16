@@ -6,5 +6,10 @@
  *  -Stored reports
  *  -User Accounts*/
 public class Database {
-
+	/**
+	 * Responsibilities:
+	 *  -Know stored projects
+	 *  -Know stored reports
+	 *  -Know stored user accounts
+	 */
 }

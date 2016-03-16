@@ -8,5 +8,11 @@
  * -View reports
  * *All users stem from this class*/
 public class User {
-
+	/**
+	 * Responsibilities:
+	 *  -Generate Report
+	 *  -View Project
+	 *  -View Report
+	 *  -Search Project
+	 */
 }

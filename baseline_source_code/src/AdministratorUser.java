@@ -6,5 +6,10 @@
  *-Edit user account
  *-Delete user account*/
 public class AdministratorUser extends RegisteredUser {
-
+	/**
+	 * Responsibilities:
+	 *  -Create user account
+	 *  -Edit user account
+	 *  -Delete user account
+	 */
 }

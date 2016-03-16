@@ -7,5 +7,11 @@
  *-Delete project
  *-Receive email alert*/
 public class ProjectLeadUser extends RegisteredUser {
-
+	/**
+	 * Responsibilities:
+	 *  -Create project
+	 *  -Edit project
+	 *  -Delete project
+	 *  -Recieve email alert
+	 */
 }

@@ -6,6 +6,9 @@
  * -TIP Reports
  * -TIP Amendments
  */
-public class TIPDocument {
-
+public class TIPDocument extends Report{
+	/**
+	 * Responsibilities:
+	 *  -Knows TIP document information
+	 */
 }

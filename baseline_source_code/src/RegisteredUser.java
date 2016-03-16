@@ -5,5 +5,8 @@
  *users. This class will know the log in credentials and the
  *individual user's information.*/
 public class RegisteredUser extends User{
-
+	/**
+	 * Responsibilities:
+	 *  -Knows registered user information
+	 */
 }

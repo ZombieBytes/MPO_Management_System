@@ -6,6 +6,9 @@
  *-Transit
  *-Archived.*
  */
-public class FundedProject {
-
+public class FundedProject extends Project{
+	/**
+	 * Responsibilities:
+	 *  -Knows funded project information
+	 */
 }

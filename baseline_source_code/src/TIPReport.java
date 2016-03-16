@@ -4,5 +4,8 @@
  * Knows information specific to a TIP report.
  */
 public class TIPReport {
-
+	/**
+	 * Responsibilities:
+	 *  -Knows TIP report information
+	 */
 }

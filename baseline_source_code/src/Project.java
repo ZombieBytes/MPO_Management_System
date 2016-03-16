@@ -7,5 +7,8 @@
  * -Proposed
  * -Funded*/
 public class Project {
-
+	/**
+	 * Responsibilities:
+	 *  -Knows project information
+	 */
 }

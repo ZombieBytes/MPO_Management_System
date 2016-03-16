@@ -7,5 +7,8 @@
  *-Texas Transit
  *-New Mexico*/
 public class Funding {
-
+	/**
+	 * Responsibilities:
+	 *  -Knows type of fundings
+	 */
 }

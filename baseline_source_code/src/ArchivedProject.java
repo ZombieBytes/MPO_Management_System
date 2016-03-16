@@ -4,6 +4,9 @@
  *Represents projects that have been stored away,
  *knows information specific to archived projects.*
  */
-public class ArchivedProject {
-
+public class ArchivedProject extends FundedProject{
+	/**
+	 * Responsibilities:
+	 *  -Knows archived project information
+	 */
 }

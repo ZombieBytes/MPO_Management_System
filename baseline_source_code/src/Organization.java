@@ -14,5 +14,8 @@
  * -Contact number
  **/
 public class Organization {
-
+	/**
+	 * Responsibilities:
+	 *  -Knows organization information
+	 */
 }

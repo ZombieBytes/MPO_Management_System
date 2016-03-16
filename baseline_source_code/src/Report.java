@@ -9,5 +9,8 @@
  * -Financial
  */
 public class Report {
-
+	/**
+	 * Responsibilities:
+	 *  -Knows report information
+	 */
 }

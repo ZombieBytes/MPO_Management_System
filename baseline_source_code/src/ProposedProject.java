@@ -5,6 +5,9 @@
  * -Transit
  * -Capacity
  */
-public class ProposedProject {
-
+public class ProposedProject extends Project{
+	/**
+	 * Responsibilities:
+	 *  -Knows proposed project information
+	 */
 }
